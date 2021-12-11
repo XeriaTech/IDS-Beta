@@ -121,6 +121,10 @@ Until I create a file and permission system, I won't be adding an official optio
 
 26. Make clock accurate
 
+27. Seperate lock screen from home screen so when exiting apps, go to home screen instead
+
+28. Make home screen more graphical
+
 
 #### Apps to add
 

@@ -10,6 +10,7 @@ from hashlib import sha3_384
 import os
 
 
+
 def clear():
   os.system('clear')
 
@@ -78,4 +79,8 @@ h.update(bytes(hashthis, 'utf-8'))
 hash = h.hexdigest()
 print(hash)
 
+del hash
+del h
+del hashthis
+input("Press enter to exit")
 import main

@@ -108,5 +108,5 @@ print (messageee, "\n")
 print ("md5")
 print (messageeee, "\n")
 
-
+input("Press enter to exit")
 import main
